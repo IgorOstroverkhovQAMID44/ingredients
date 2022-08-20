@@ -1,2 +1,3 @@
-## Оформите баг-репорт с помощью Github Issues
+## Оформление баг-репорта с помощью Github Issue
+
 Проект ingredients на JAVA
